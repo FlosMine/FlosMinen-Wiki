@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Whitelist these files
+!docs/
+!README.md
+!.gitignore
