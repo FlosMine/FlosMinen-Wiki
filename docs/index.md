@@ -1,5 +1,2 @@
-# FlosMinen Wiki
+# Etusivu
 Tervetuloa FlosMinen Wikisivuille!
-
-!!! Huomaa
-    Sivusto on kesken
