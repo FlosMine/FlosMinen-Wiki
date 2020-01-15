@@ -1,7 +1,9 @@
 # Ignore everything
 *
+/*
+/*/
 
 # Whitelist these files
-!/docs
+!/docs/
 !README.md
 !.gitignore

@@ -1,5 +1,6 @@
 # FlosMinen Wiki
 Tämä on FlosMinen wikin repositorio, jossa pääset mukaan wikin muokkaamiseen!
+
 Wiki: https://wiki.flosmine.fi/
 
 ## Virheiden ilmoittaminen
