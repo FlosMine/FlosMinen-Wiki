@@ -1,0 +1,33 @@
+site_name: FlosMine Wiki
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  logo: 'images/life.svg'
+  favicon: 'images/favicon.ico'
+  language: 'fi'
+  palette:
+    primary: 'green'
+    accent: 'green'
+  feature:
+    tabs: true
+markdown_extensions:
+  - meta
+  - footnotes
+  - codehilite
+  - admonition
+  - fontawesome_markdown
+  - toc:
+      permalink: true
+repo_name: 'FlosMine/FlosMinen-Wiki'
+repo_url: 'https://github.com/FlosMine/FlosMinen-Wiki'
+extra:
+  social:
+    - type: 'instagram'
+      link: 'https://www.instagram.com/flosminefi/'
+    - type: 'twitter'
+      link: 'https://twitter.com/FlosMineFi'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/flosmine/'
+    - type: 'github'
+      link: 'https://github.com/FlosMine/'
+extra_css: [extra.css]

@@ -8,9 +8,7 @@ ja tietosuojaseloste. Laadittu 15.1.2020. Viimeisin muutos 15.1.2020.
 ## 2. Rekisteristä vastaava yhteyshenkilö
 Juuso Korhonen 
 
-Sähköposti: juuso@korho.fi
-
-Puhelinnumero: 0453541001 
+Sähköposti: juuso@speek.fi
 
 Paikkakunta: Jyväskylä  
 
